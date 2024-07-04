@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Digital native from the 90s era and works as a Quality Assurance Tester
 -----------------------------------------------------------------------
 
-If you've landed on this page, it means you're either a fan or a recruiter
+If you've landed on this page, it means you're either a fans or a hunters
 
 * 🌍  I'm based in Indonesia
 * 🖥️  See my portfolio at [null](http://null.com)
