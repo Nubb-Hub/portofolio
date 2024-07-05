@@ -1,4 +1,4 @@
-<p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Raster+Fonts&weight=900&duration=2000&pause=1000&color=00B328&center=true&vCenter=true&multiline=true&random=false&width=455&height=100&lines=What+We+Know+Is+A+Drop;What+We+Don%E2%80%99t+Know+Is+an+Ocean;No+bug-free+my+friends" alt="Typing SVG" /></a></p>
+<p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Raster+Fonts&weight=900&duration=2000&pause=1000&color=00B328&center=true&vCenter=true&multiline=true&random=false&width=455&height=100&lines=What+We+Know+Is+A+Drop;What+We+Don%E2%80%99t+Know+Is+an+Ocean;🐞No+bug-free+my+friends🐞" alt="Typing SVG" /></a></p>
 
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Shandy
 ==============================================================================================================================
@@ -31,3 +31,5 @@ If you've landed on this page, it means you're either a fans or a hunters 🙂
 <a href="http://www.github.com/Nubb-Hub"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Nubb-Hub&stroke=ffffff&background=000000&ring=22c55e&fire=22c55e&currStreakNum=ffffff&currStreakLabel=22c55e&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 <a href="https://github.com/Nubb-Hub" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nubb-Hub&langs_count=10&title_color=22c55e&text_color=ffffff&icon_color=22c55e&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nubb-hub&label=Profile%20views&color=0e75b6&style=flat" alt="nubb-hub" /> </p>
