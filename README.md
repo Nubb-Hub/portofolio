@@ -11,7 +11,7 @@ If you've landed on this page, it means you're either a fans or a hunters 🙂
 In this page i will quick [introduce my self](#about-me) and you will see my [skills](#Skills) , [tools](#tools), [course](#course), [examample projects](#example-project) and [reference website](#reference-website)
 
 ## About-me
-I hold a Manual Quality Assurance (Software Tester) certification from an Indonesian institution. The real challenges kicked in after graduation. As I explored the QA world, I discovered a vast array of specializations and required skills. So, if anyone tells you 'manual QA doesn't need basic programming skills,' they're wrong! But don't worry, it's all about time, dedication, and a love for learning. I took the leap from Manual QA to QA Engineer through self-directed learning and skill development. Luckily, I found [roadmasp.sh](https://roadmap.sh/qa), a helpful guide. I also joined freelancing platforms like [Testlio](https://www.testlio.com) and [uTest](https://www.utest.com) to gain experience and improve my skills.
+I hold a Manual Quality Assurance (Software Tester) certification from an Indonesian institution. The real challenges kicked in after graduation. As I explored the QA world, I discovered a vast array of specializations and required skills. So, if anyone tells you 'manual QA doesn't need basic programming skills,' they're wrong! But don't worry, it's all about time, dedication, and a love for learning. I took the leap from Manual QA to QA Engineer through self-directed learning and skill development. Luckily, I found [roadmasp.sh](https://roadmap.sh/qa), a helpful guide. I also joined freelancing platforms like [Testlio](https://www.testlio.com) and [uTest](https://www.utest.com) to gain experience and improve my skills trought their academy.
 
 
 ## Skills
@@ -25,7 +25,10 @@ __Test Analyze and Testing__
 __Test Documentation__
 
 
-__SQL__
+__Bug Reporting and Decumentation__
+
+
+__SQL Query Scripting__
 
 
 <p align="left">
@@ -34,13 +37,24 @@ __SQL__
 
 ## Tools
 
+* Jira, Clickup, Trello - Project Management
+* Rocket.Chat - Communication within teams
+* Chrome Dev Tools - for better testing and improving bug reports
+* Google Drive - storing data
+* Postman - API testing
+* IntelliJ IDEA - test development, unit testing and UI testing
+* JMeter - load testing for web
+* ABD Tools - debuging adroid apps
+  
+  🔜
 
-## Course
+
+## Courses
+🚧 under constructions 🚧
 
 
 ## Example Projects
-
-
+🚧 under constructions 🚧
 
 ## Socials
 
