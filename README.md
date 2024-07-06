@@ -44,7 +44,7 @@ __SQL Query Scripting__
 * Postman - API testing
 * IntelliJ IDEA - test development, unit testing and UI testing
 * JMeter - load testing for web
-* ABD Tools - debuging adroid apps
+* ABD Tools - debuging android apps
   
   🔜
 
