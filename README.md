@@ -43,8 +43,8 @@ __SQL Query Scripting__
 🚧 under constructions 🚧
 
 
-## Example Projects
-🚧 under constructions 🚧
+## Exercises
+* Automation [login](https://github.com/Nubb-Hub/automate-example-1)
 
 ## Socials
 
